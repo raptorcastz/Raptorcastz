@@ -23,7 +23,7 @@ Hi, I'm Chacha.
 |     4|  C         |
 |     5| Javascript |
 
-<details>
+
 
 
 
