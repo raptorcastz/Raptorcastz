@@ -17,7 +17,7 @@ DE-IMAGE">
 
 Hi, I'm Chacha.
 
-Am filmmaker ,Animator, Graphic designer and curently pursuing ALX SE programe
+Am a filmmaker ,Animator, Graphic designer and curently pursuing ALX SE programe
 
 <details>
 <summary>My top languages</summary>
